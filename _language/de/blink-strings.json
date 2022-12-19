@@ -1,0 +1,4 @@
+{
+    "animations.Blink": "blinke LED %x, %y mit %interval Millisekunden",
+    "{id:category}Bilnk": "Animationen"
+}
