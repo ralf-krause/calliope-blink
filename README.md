@@ -1,6 +1,17 @@
 
 > Diese Seite bei [https://ralf-krause.github.io/calliope-blink/](https://ralf-krause.github.io/calliope-blink/) öffnen
 
+## Anleitung
+
+### Blink #animationsblink
+
+Blinks a led at a given location.
+
+```blocks
+animations.blink(2, 2, 100)
+```
+
+
 ## Als Erweiterung verwenden
 
 Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
