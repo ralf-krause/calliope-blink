@@ -6,7 +6,7 @@
 /**
  * Animation blocks
  */
-//% weight=60 color=#8B4513 icon="\uf140"
+//% weight=60 color=#CD853F icon="\uf140"
 namespace animations {
     let sprites: game.LedSprite[] = []
 
