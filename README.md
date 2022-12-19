@@ -5,7 +5,7 @@
 
 ### Blink #animationsblink
 
-Blinks a led at a given location.
+Blinks an led at a given location.
 
 ```blocks
 animations.blink(2, 2, 100)
@@ -13,6 +13,10 @@ animations.blink(2, 2, 100)
 
 ### Examples
 
+```blocks
+for (let i=0; i < 5; ++i)
+    animations.blink(i, i, 100 + i * 100)
+```
 
 
 ## Als Erweiterung verwenden
