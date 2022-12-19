@@ -1,7 +1,7 @@
 /**
-* Nutze diese Datei für benutzerdefinierte Funktionen und Blöcke.
-* Weitere Informationen unter https://makecode.calliope.cc/blocks/custom
-*/
+ * Nutze diese Datei für benutzerdefinierte Funktionen und Blöcke.
+ * Weitere Informationen unter https://makecode.calliope.cc/blocks/custom
+ */
 
 /**
  * Animation blocks
