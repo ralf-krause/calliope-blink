@@ -11,6 +11,9 @@ Blinks a led at a given location.
 animations.blink(2, 2, 100)
 ```
 
+### Examples
+
+
 
 ## Als Erweiterung verwenden
 

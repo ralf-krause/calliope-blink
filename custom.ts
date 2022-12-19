@@ -14,7 +14,7 @@ namespace animations {
      * @param y vertical led coordinate 0..4
      * @param interval time in milliseconds between blinks
      */
-    //% block ="blink led x $x y $y every $interval ms"
+    //% block="blink led x $x y $y every $interval ms"
     export function blink(x: number, y: number, interval: number): void {
         let sprite = game.createSprite(x, y)
         sprite.setBlink(interval)
